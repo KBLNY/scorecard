@@ -1,6 +1,7 @@
 package com.scorecard;
 
 import com.facebook.react.ReactActivity;
+import com.babisoft.ReactNativeLocalization.ReactNativeLocalizationPackage;
 
 public class MainActivity extends ReactActivity {
 
